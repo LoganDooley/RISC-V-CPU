@@ -1,0 +1,11 @@
+# All generated build output
+build/
+obj_dir/
+
+# Waveforms
+*.vcd
+*.fst
+
+# Python
+__pycache__/
+.venv/
